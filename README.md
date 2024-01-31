@@ -4,3 +4,4 @@ I found it interesting because it talks about the recent tech layoffs that have 
 
 
 Wei Luo: It is unfortunate that tech industry is suffering one of the worst withdrawal and recession in the history. Only after new technology breakthrough or the gradual improvement of economy can the industry be restored.
+>I agree very much Wei Luo this is a serious issue
