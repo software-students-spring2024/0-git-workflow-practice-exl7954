@@ -5,3 +5,5 @@ I found it interesting because it talks about the recent tech layoffs that have 
 
 Wei Luo: It is unfortunate that tech industry is suffering one of the worst withdrawal and recession in the history. Only after new technology breakthrough or the gradual improvement of economy can the industry be restored.
 >I agree very much Wei Luo this is a serious issue
+
+Alice Ding: With AI being such a prominent factor in the "danger" of software engineering jobs, it somewhat deters me from pursuing a career in software engineering, but I also think that this provides an opportunity to delve into AI and its role in the coding and computer science world. With the implementation of AI, it may be possible for computer scientists to explore other areas of computer science and software engineering, such as "training" AI to be truly full-fledged software engineers.
